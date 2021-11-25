@@ -1,0 +1,16 @@
+---
+title: Mitch test
+author: 'Mitch'
+date: '2021-11-25'
+slug: []
+categories: []
+tags: 
+  - r
+  - rstudio
+  - git
+  - GitHub
+  - blogdown
+Description: ''
+DisableComments: no
+math: true
+---
